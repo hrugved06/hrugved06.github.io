@@ -2,14 +2,14 @@
 
 ## Thanks for showing up!
 
-Welcome everyone and Hello, this is Hrugved Kolhe.
+Hey, this is [Hrugved Kolhe.]()
 
 Click below to view the [portfolio.](https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/) </br>
 
 ---
 
-# [Portfolio Hrugved Kolhe](https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/)
-![Portfolio](https://raw.githubusercontent.com/hrugved06/Portfolio-Hrugved-Kolhe/main/holdings/images/projects/websitefpp.jpeg?token=AOJQLXZOQ4JH2XUZIPG6OF3BHUCBG)
+# [Portfolio Overview](https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/)
+![Portfolio](https://raw.githubusercontent.com/hrugved06/Portfolio-Hrugved-Kolhe/main/holdings/images/projects/website.gif?token=AOJQLX3G4L6V4CATNC5UYXTBJ6NSO)
 
 ---
 
