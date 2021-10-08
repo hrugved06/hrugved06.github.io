@@ -2,7 +2,7 @@
 
 ## Thanks for showing up!
 
-Hey, this is [Hrugved Kolhe.]()
+Hey, this is [Hrugved Kolhe.](https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/)
 
 Click below to view the [portfolio.](https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/) </br>
 
