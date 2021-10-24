@@ -4,7 +4,7 @@
 
 Hey, this is [Hrugved Kolhe.](https://www.linkedin.com/in/hrugved-kolhe-364881193/)
 
-Click below to view the [portfolio.](https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/) </br>
+Click below to view the [🚀Portfolio🚀.](https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/) </br>
 
 ---
 
@@ -13,6 +13,6 @@ Click below to view the [portfolio.](https://hrugved06.github.io/Portfolio-Hrugv
 
 ---
 
-All the content and the dependencies used to create the [Portfolio](https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/) has been made private, you can always [contact me](https://www.linkedin.com/in/hrugved-kolhe-364881193/) to know more :-D
+All the content and the dependencies used to create the [Portfolio](https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/) has been made private, you can always [contact me](https://www.linkedin.com/in/hrugved-kolhe-364881193/) to know more ;-)
 
 ---
