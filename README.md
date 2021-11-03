@@ -9,7 +9,7 @@ Click below to view the [🚀Portfolio🚀.](https://hrugved06.github.io/Portfol
 ---
 
 # [Portfolio Overview](https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/)
-![Portfolio](./preview/website.gif)
+[![Portfolio](./preview/website.gif)](https://hrugved06.github.io/Portfolio-Hrugved-Kolhe/)
 
 ---
 
